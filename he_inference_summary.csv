@@ -1,0 +1,11 @@
+Metric,Value
+Baseline Plaintext Accuracy,0.9824561403508771
+HE-Compatible Plaintext Accuracy,0.9298245614035088
+Encrypted Inference Accuracy,0.9298245614035088
+Baseline Training Time (s),0.216810941696167
+HE-Compatible Training Time (s),0.1074225902557373
+Avg Plaintext Inference Time/sample (s),4.386274438155325e-05
+Avg Encrypted Inference Time/sample (s),0.15652467493425337
+Latency Overhead Ratio,3568.5107519191342
+Avg Ciphertext Size (KB),326.4564059073465
+Process RAM Usage (MB),311.7890625
